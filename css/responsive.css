@@ -1,0 +1,34 @@
+@media (max-width:1024px){
+    .burger-icon{
+     display: block;
+           position: absolute;
+           top: 20px;
+           right: 10px;
+           background-color: rgb(0, 255, 221);
+      }
+    
+ .navigation{
+     display: none;
+ }
+      .mobile-nav{
+           display: none;
+    } 
+    section .block{
+           width: auto;
+    }
+    .Frm{
+           margin-left:-90px;
+    }
+    .block  .right-block{
+         width: 410px;
+    }
+    .section2 .block{
+          margin: 0 auto;
+    }
+    .foo{
+           width: auto;
+    }
+    .foo .block .box{
+           margin: 0 auto;
+    }
+}   
