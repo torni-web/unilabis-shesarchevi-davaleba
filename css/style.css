@@ -1,0 +1,236 @@
+.logo{
+	display: inline-block;
+	vertical-align: middle; 
+	margin-left: 18px;
+	margin-top: 20px;
+	margin-right: 92px;
+	
+}
+.header-wraper{
+	background-color: #F6F8F9;	
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 50px;
+	z-index: 10;
+	}
+	section .main-bg-image .main-bg-image-text {
+		max-width: 600px;
+		width: 100%;
+		height: 247px;
+		margin: 0 auto;
+	  }
+	  section .main-bg-image .main-bg-image-text h2 {
+		font-size: 24px;
+		font-family: "Helvetica";
+		font-weight: bold;
+		color: #fff;
+	  }
+	  section .main-bg-image .main-bg-image-text .main-title-line {
+		max-width: 560px;
+		width: 100%;
+		height: 2px;
+		background-color: #fff;
+		margin: 40px 0;
+	  }
+	  section .main-bg-image .main-bg-image-text .main-t1 {
+		font-size: 24px;
+		font-family: "Helvetica";
+		font-weight: bold;
+		color: #fff;
+		margin-bottom: 10px;
+	  }
+	  section .main-bg-image .main-bg-image-text .main-t2 {
+		font-family: "Helvetica";
+		margin-bottom: 30px;
+		color: #fff;
+	  }
+	  section .main-bg-image .main-bg-image-text a {
+		width: 134px;
+		height: 40px;
+		background-color: #FA6980;
+		font-size: 11px;
+		font-family: "Helvetica";
+		font-weight: bold;
+		color: #fff;
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-pack: center;
+			-ms-flex-pack: center;
+				justify-content: center;
+		-webkit-box-align: center;
+			-ms-flex-align: center;
+				align-items: center;
+		border-radius: 6px;
+	  }
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 20px;
+	
+} 
+.nav-li{
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-a{
+	color: #343638;
+	margin-right: 22px;
+	font-size: 11px ;
+	font-weight: bold;
+}
+.Img1{
+	position: absolute;
+	top: 18px;
+       left: 457px;   
+}
+.box .box-text{
+	font-size: 24px;
+	font-weight: bold;
+	position: absolute;
+	top: 75px;
+	left: 140px;
+}
+
+.image-box .Img2{
+	position: absolute;
+	top: 135px;
+	left: 140px;
+}
+.image-box2 .Img3{
+	position: absolute;
+	top: 135px;
+	left: 540px;
+}
+
+.image-box3 .Img4{
+	position: absolute;
+	top: 135px;
+	left: 940px;
+}
+.image-box .Image-text{
+	position: absolute;
+	top: 381px;
+	left: 140px;
+	font-size: 13px;
+	text-align: right;
+	color: #A6ADB4;
+	width: 280px;
+	height: 38px;
+}
+
+.image-box2 .Image-text2{
+	position: absolute;
+	top: 381px;
+	left: 580px;
+	font-size: 13px;
+	text-align: right;
+	color: #A6ADB4;
+	width: 280px;
+	height: 38px;
+}
+
+.image-box3 .Image-text3{
+	position: absolute;
+	top: 381px;
+	left: 940px;
+	font-size: 13px;
+	text-align: right;
+	color: #A6ADB4;
+	width: 280px;
+	height: 38px;
+}
+.image-box .text-on-the-image{
+	position: absolute;
+	top: 163px;
+	left: 180px;
+	font-size: 16px;
+	text-align: left;
+	width: 280px;
+	height: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.image-box2 .text-on-the-image2{
+	position: absolute;
+	top: 163px;
+	left: 575px;
+	font-size: 16px;
+	text-align: left;
+	width: 280px;
+	height: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.image-box3 .text-on-the-image3{
+	position: absolute;
+	top: 163px;
+	left: 975px;
+	font-size: 16px;
+	text-align: left;
+	width: 280px;
+	height: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.box2 .box-text2{
+	font-size: 24px;
+	font-weight: bold;
+	position: absolute;
+	top: 543px;
+	left: 140px;
+}
+.box2 .image-box .Img2{
+	position: absolute;
+	top: 603px;
+	left: 140px;
+}
+.box2 .image-box2 .Img3{
+	position: absolute;
+	top: 1073px;
+	left: 140px;
+}
+.box2 .image-box .text-on-the-image{
+	position: absolute;
+	top: 997px;
+	left: 709px;
+	font-size: 16px;
+	text-align: left;
+	width: 280px;
+	height: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.box2 .image-box3 .Img4{
+	position: absolute;
+	top: 603px;
+	left: 940px;
+}
+
+.box2 .image-box4 .Img5{
+	position: absolute;
+	top: 915px;
+	left: 940px;
+}
+.box2 .image-box5 .Img6{
+	position: absolute;
+	top: 1227px;
+	left: 940px;
+}
+.box2 .image-box3 .text-on-the-image3{
+	position: absolute;
+	top: 621px;
+	left: 980px;
+	font-size: 16px;
+	text-align: left;
+	width: 280px;
+	height: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.foot {
+    top: 1440px;
+}

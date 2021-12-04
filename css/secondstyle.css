@@ -1,0 +1,178 @@
+ .conteiner{
+    max-width: 1366px;
+    width: 100%;
+    margin: 0 auto;
+  
+} 
+header{
+	display: flex;
+	align-items: center;
+	margin-top: -10px; 
+}
+header .navigation{
+	margin-top: 25px;
+	
+}
+
+header .parentli{
+	display: flex;
+	width: 550px;
+	justify-content: space-around;
+}
+
+header .parentli .nav-li .a-link{
+    color:#343638;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+section .block{
+	max-width: 1080px;
+	width: 100%;
+	height: 491px;
+	display: flex;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	margin: 100px auto;    
+} 
+
+.block .left-block{
+	max-width: 580px;
+         width: 100%;
+	background-image: url(../Images/Image.png);  
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+	
+}
+
+.block  .right-block{
+	max-width: 580px;
+       width: 100%;
+
+	position: relative;
+}
+
+.text{
+	position: absolute;
+	top: 155px;
+	left: 110px;
+	max-width: 360px;
+	height: 190px;
+	width: 100%;
+	
+	
+}
+
+.text .bigtext{
+	color: #FFFFFF;
+	font-size: 32px;
+	display: flex;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	-webkit-box-pack: center;
+       -ms-flex-pack: center;
+	justify-content: center;
+	
+}
+
+ .text .Img1{
+    position: absolute;
+    top: 45px;
+    left: 45%;
+}
+
+.text .smalltext{
+	text-align: center;
+	margin-top: 50px;
+	color: #FFFFFF;
+	font-size: 16px;
+}
+
+.text .Img2{
+	position: absolute;
+	top: 145px;
+	left: 45%;
+   }
+
+.right-block .Frm{
+	width: 380px;
+	height: 260px;
+	
+	position: absolute;
+	top: 127px;
+	left: 110px;
+}
+
+#Frm2{
+       width: 375px;
+	height: 40px;
+}
+label{
+	color:#202124;
+	font-size: 13px;
+	
+}
+
+.text2{
+	margin-top: 20px;
+}
+
+.btn{
+	background-color:#FA6980;
+	width: 134px;
+	height: 40px;
+	border-radius: 6px;
+	margin-top: 40px;
+}
+
+.burger-icon{
+	display: none;
+}
+.section2 .block{
+	max-width: 1160px;
+	width: 100%;
+       height: 213px;
+	
+	margin: 40px 0 0 130px;
+	display: flex;
+	display: -ms-flexbox;
+      -ms-flex-pack: justify;
+	justify-content: space-between;
+	position: relative;
+
+} 
+
+.section2 .block .bigtext{
+	width: 360px;
+	height: 61px;
+	 position: absolute;
+	top: 40px; 
+	font-size: 24px;
+	color: #202124;
+}
+.section2 .block .smalltext{
+	width: 360px;
+	height: 172px;
+	color:#A6ADB4;
+	font-size: 14px;
+
+}
+.foo{
+	max-width:1300px;
+	width: 100%;
+       height: 200px;
+	margin: 40px auto;
+	
+	background-color: #A6ADB4;
+}
+.foo .block .box{
+	width: 1000px;
+	display: flex;
+	-ms-flex-pack: justify;
+	display: -ms-flexbox;
+	justify-content: space-between;
+	margin: 56px 142px;
+	font-size: 15px;
+	color: #CBD0D3;
+}
